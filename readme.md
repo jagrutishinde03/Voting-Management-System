@@ -1,7 +1,3 @@
-Certainly! Here's a README file incorporating all the provided information:
-
----
-
 # Voting Management System
 
 ## Introduction
